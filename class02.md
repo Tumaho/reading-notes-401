@@ -25,3 +25,7 @@
 ## Pure functions
 
 ### Pure functions are functions that accept an input and returns a value without modifying any data outside its scope(Side Effects). Its output or return value must depend on the input/arguments
+
+## OOP
+
+### Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic.
