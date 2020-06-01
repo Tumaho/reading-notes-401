@@ -17,3 +17,5 @@ Class04 | [CLICK!](https://tumaho.github.io/reading-notes-401/class04)
 Class05 | [CLICK!](https://tumaho.github.io/reading-notes-401/Linked-list)
 --- | --- 
 Class06 | [CLICK!](https://tumaho.github.io/reading-notes-401/class06)
+--- | --- 
+Class07 | [CLICK!](https://tumaho.github.io/reading-notes-401/class07)
