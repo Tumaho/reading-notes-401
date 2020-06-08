@@ -27,3 +27,5 @@ Class09 | [CLICK!](https://tumaho.github.io/reading-notes-401/class09)
 Class10 | [CLICK!](https://tumaho.github.io/reading-notes-401/Queue-stack)
 --- | --- 
 Class11 | [CLICK!](https://tumaho.github.io/reading-notes-401/class11)
+--- | --- 
+Class12 | [CLICK!](https://tumaho.github.io/reading-notes-401/class12)
