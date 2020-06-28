@@ -43,3 +43,5 @@ Class17 | [CLICK!](https://tumaho.github.io/reading-notes-401/class17)
 Class18 | [CLICK!](https://tumaho.github.io/reading-notes-401/class18)
 --- | --- 
 Class19 | [CLICK!](https://tumaho.github.io/reading-notes-401/class19)
+--- | --- 
+Class20 | [CLICK!](https://tumaho.github.io/reading-notes-401/class20)
