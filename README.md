@@ -47,3 +47,7 @@ Class19 | [CLICK!](https://tumaho.github.io/reading-notes-401/class19)
 Class20 | [CLICK!](https://tumaho.github.io/reading-notes-401/class20)
 --- | --- 
 Class21 | [CLICK!](https://tumaho.github.io/reading-notes-401/class21)
+--- | --- 
+Class22 | [CLICK!](https://tumaho.github.io/reading-notes-401/class22)
+--- | --- 
+Class23 | [CLICK!](https://tumaho.github.io/reading-notes-401/class23)
