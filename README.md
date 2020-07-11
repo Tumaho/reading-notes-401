@@ -61,3 +61,5 @@ Class26 | [CLICK!](https://tumaho.github.io/reading-notes-401/class26)
 Class27 | [CLICK!](https://tumaho.github.io/reading-notes-401/class27)
 --- | --- 
 Class28 | [CLICK!](https://tumaho.github.io/reading-notes-401/graphs)
+--- | --- 
+Class29 | [CLICK!](https://tumaho.github.io/reading-notes-401/class29)
